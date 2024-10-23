@@ -1,0 +1,11 @@
+# Requirements
+- Logo
+- User should be able to navigate to the main pages in the site
+- Hero section
+- Footer
+- Contact form
+    - Name, phone number, email id, location
+- Login
+    - Emailid, password
+- Register
+    - Emailid, password, confirm passord
