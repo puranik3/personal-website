@@ -1,4 +1,4 @@
-# personal-website
-This is the source code for my Ascendion team website.
+# team-website
+This is the source code for the Ascendion team website.
 
 [How to work with Git](./git.md)
