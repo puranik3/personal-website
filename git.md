@@ -17,3 +17,13 @@ git add .
 git commit -m "first commit - added a file for documenting Git usage"
 git push
 ```
+
+## Some basic commands
+- To check the commits
+```
+git log
+```
+- To check the changes between commits etc.
+```
+git diff
+```
